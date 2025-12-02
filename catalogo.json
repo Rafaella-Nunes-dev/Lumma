@@ -42,13 +42,7 @@
             "preco": 36.99 ,
             "ml": "200",
             "imagem": "imagens/Limao.png"
-        },
-        {
-            "nome" : "Limão Siciliano",
-            "descricao": "Energia, frescor e bem-estar, ajudando a promover a concentração, clareza mental e otimismo.",
-            "preco": 36.99 ,
-            "ml": "200",
-            "imagem": "imagens/Limao.png"
         }
     ]
+
 }
