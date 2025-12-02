@@ -1,0 +1,54 @@
+{
+    "velas":
+    [
+        {
+            "nome" : "Flor de Cerejeira",
+            "descricao": "Leveza, renovação e tranquilidade, simbolizando a beleza efêmera da vida",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Flor-Cerejeira.png"
+        },
+        {
+            "nome" : "Flor de Laranjeira",
+            "descricao": "Alegria, frescor, tranquilidade e prosperidade, ao mesmo tempo que alivia o estresse e a ansiedade",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Flor-Laranjeira.png"
+        },
+        {
+            "nome" : "Maçã Verde",
+            "descricao": "Frescor, vitalidade e energia, despertando o ânimo e clareando a mente",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Maça-Verde.png"
+        },
+        {
+            "nome" : "Baunilha",
+            "descricao": "Calma, conforto, relaxamento e bem-estar",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Baunilha.png"
+        },
+        {
+            "nome" : "Lavanda",
+            "descricao": "Calma, relaxamento e serenidade, sendo associado à redução do estresse e da ansiedade",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Lavanda.png"
+        },
+        {
+            "nome" : "Limão Siciliano",
+            "descricao": "Energia, frescor e bem-estar, ajudando a promover a concentração, clareza mental e otimismo.",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Limao.png"
+        },
+        {
+            "nome" : "Limão Siciliano",
+            "descricao": "Energia, frescor e bem-estar, ajudando a promover a concentração, clareza mental e otimismo.",
+            "preco": 36.99 ,
+            "ml": "200",
+            "imagem": "imagens/Limao.png"
+        }
+    ]
+}
