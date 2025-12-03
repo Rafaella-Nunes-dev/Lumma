@@ -17,7 +17,7 @@ function CriaCards()
           <h3>${vela.nome}</h3>
           <p>${vela.descricao}</p>
           <p><strong>R$ ${vela.preco.toFixed(2)}</strong></p>
-          <a  href="https://wa.me/988302496" ><button>Comprar</button></a>
+          <a href="https://wa.me/988302496"> <button>Comprar</button> </a>
         `;
         container.appendChild(card);
 
@@ -86,3 +86,4 @@ fetch("catalogo.json")
   })
 
   .catch(error => console.error("Erro ao carregar JSON:", error));
+
